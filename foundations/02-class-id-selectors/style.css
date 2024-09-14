@@ -1,0 +1,23 @@
+/* styles.css */
+
+.odd {
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #20b2aa;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+/* since three and four share the same font-size, I can create a class for "font-adjust" if I want to keep the code cleaner by grouping these two changes together */
